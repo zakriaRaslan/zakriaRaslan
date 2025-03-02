@@ -1,10 +1,6 @@
 
 ### **<div align="center">I'm Zakaria, A  Full-Stack Developer 👨‍💻</div>**  
-  
-
-- 🌱 I’m currently learning Doker  
-  
-
+    
 - ❓ Ask Me About Anything Related To .Net And Angular  
   
 
